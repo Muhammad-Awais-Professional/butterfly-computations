@@ -1,0 +1,30 @@
+Running with 2 MPI processes and 2 OpenMP threads
+Process 0 execution time: 0.000115 seconds
+Process 1 execution time: 0.000118 seconds
+Running with 2 MPI processes and 4 OpenMP threads
+Process 0 execution time: 0.000116 seconds
+Process 1 execution time: 0.000100 seconds
+Running with 2 MPI processes and 8 OpenMP threads
+Process 1 execution time: 0.000202 seconds
+Process 0 execution time: 0.000184 seconds
+Running with 4 MPI processes and 2 OpenMP threads
+Process 0 execution time: 0.000073 seconds
+Process 3 execution time: 0.000063 seconds
+Process 1 execution time: 0.000052 seconds
+Process 2 execution time: 0.000047 seconds
+Running with 4 MPI processes and 4 OpenMP threads
+Process 2 execution time: 0.027054 seconds
+Process 0 execution time: 0.027208 seconds
+Process 1 execution time: 0.040383 seconds
+Process 3 execution time: 0.042991 seconds
+Running with 4 MPI processes and 8 OpenMP threads
+Process 1 execution time: 0.084980 seconds
+Process 3 execution time: 0.084983 seconds
+Process 2 execution time: 0.100933 seconds
+Process 0 execution time: 0.121212 seconds
+Running with 8 MPI processes and 2 OpenMP threads
+Running with 8 MPI processes and 4 OpenMP threads
+Running with 8 MPI processes and 8 OpenMP threads
+Running with 16 MPI processes and 2 OpenMP threads
+Running with 16 MPI processes and 4 OpenMP threads
+Running with 16 MPI processes and 8 OpenMP threads
